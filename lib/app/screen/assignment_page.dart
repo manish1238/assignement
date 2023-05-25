@@ -201,6 +201,13 @@ class _AssignmentPageState extends State<AssignmentPage> with WidgetMixin {
                     child: Text('5'),
                   ),
                   SvgPicture.asset('assets/svgs/bookmark.svg'),
+                  const SizedBox(
+                    width: 25,
+                  ),
+                  Icon(
+                    Icons.more_horiz,
+                    color: kGrey,
+                  ),
                 ],
               ),
               const Divider(),
