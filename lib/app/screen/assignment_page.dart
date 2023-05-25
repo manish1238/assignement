@@ -145,9 +145,9 @@ class _AssignmentPageState extends State<AssignmentPage> with WidgetMixin {
                   children: [
                     buildChips(title: '#2023'),
                     buildChips(title: '#TODAYISMONDAY'),
-                    buildChips(title: '#TOP!'),
+                    buildChips(title: '#TOP'),
                     buildChips(title: '#POPS!'),
-                    buildChips(title: '#WOW!'),
+                    buildChips(title: '#WOW'),
                     buildChips(title: '#ROW!'),
                   ],
                 ),
