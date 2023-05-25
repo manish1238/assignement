@@ -34,6 +34,7 @@ class _AssignmentPageState extends State<AssignmentPage> with WidgetMixin {
               fontWeight: FontWeight.w700,
             ),
           ),
+          centerTitle: true,
           actions: [
             IconButton(
               onPressed: () {},
